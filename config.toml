@@ -4,7 +4,7 @@ title = "新婚夫婦日記"
 theme = "hugo-zen"
 
 #[params]
-#  logo      = "/images/logo.jpg"
+  logo      = "/images/logo.jpg"
 #  twitter   = "https://twitter.com/syk5817"
 #facebook  = "https://www.facebook.com/ochiishikoichiro"
 #github    = "https://github.com/rakuishi/"
