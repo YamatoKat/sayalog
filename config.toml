@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "新婚夫婦日記"
 theme = "hugo-zen"
 
-#[params]
+[params]
   logo      = "/images/logo.jpg"
 #  twitter   = "https://twitter.com/syk5817"
 #facebook  = "https://www.facebook.com/ochiishikoichiro"
