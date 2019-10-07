@@ -1,4 +1,5 @@
 baseURL = "http://www.sayaka.work"
+UglyURLs = true 
 languageCode = "en-us"
 title = "新婚夫婦日記"
 theme = "hugo-zen"
