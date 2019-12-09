@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "新婚夫婦日記"
 theme = "hugo-zen"
 googleAnalytics = "UA-146219040-1"
-copyright = "2019 Yamato inc. All Rights Reserved."
+copyright = "2019 YAMATO inc. All Rights Reserved."
 
 [params]
   logo      = "/images/logo.jpg"
