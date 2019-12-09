@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "新婚夫婦日記"
 theme = "hugo-zen"
 googleAnalytics = "UA-146219040-1"
+copyright = "sayaka.work"
 
 [params]
   logo      = "/images/logo.jpg"
